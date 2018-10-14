@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dogs</string>
+
+
+    <!-- LogIn -->
+    <string name="hint_email">Seu e-mail</string>
+    <string name="title_log_in_activity">Entrar</string>
+    <string name="title_log_in">Informe seu e-mail para continuar</string>
+    <string name="message_sending">Enviando</string>
+    <string name="message_loading">Carregando</string>
+    <string name="error_empty_field">Campo obrigatório</string>
+    <string name="error_email_field_invalid">E-mail inválido</string>
+    <string name="error_without_network">Você precisa de uma conexão com a internet para continuar.</string>
+    <string name="error_generic">Houve um erro ao conectar com o servidor.</string>
+
+    <!-- Dogs -->
+    <string name="title_dog_activity">Dogs</string>
+    <string name="husky">Husky</string>
+    <string name="hound">Hound</string>
+    <string name="pug">Pug</string>
+    <string name="labrador">Labrador</string>
+    <string name="error_empty_list">Nada para mostrar.</string>
+
+</resources>
