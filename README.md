@@ -1,5 +1,5 @@
 # Dogs-android
-Application that makes use of the IDwall API to exemplify the use of some libraries.
+Application that makes use of the IDwall API(https://github.com/idwall/desafios-iddog) to exemplify the use of some libraries.
 It has a simple and clean MVP architecture with code examples for animations, validation of fields, exceptions, etc.
 
 Main libraries used:
